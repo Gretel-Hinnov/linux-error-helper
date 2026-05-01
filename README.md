@@ -11,7 +11,7 @@ vastavas lõputöös.
 
 ```bash
 sudo mysql -e "CREATE DATABASE error_helper;"
-sudo mysql error_helper < db/error_helper.sql
+sudo mysql error_helper < andmebaas/error_helper.sql
 ```
 
 ## Rakenduse käivitamine
