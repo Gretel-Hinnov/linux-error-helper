@@ -17,5 +17,5 @@ sudo mysql error_helper < db/error_helper.sql
 ## Rakenduse käivitamine
 
 ```bash
-python3 serveri_abiline.py
+python3 rakendus/serveri_abiline.py
 ```
