@@ -12,3 +12,8 @@ vastavas lõputöös.
 ```bash
 sudo mysql -e "CREATE DATABASE error_helper;"
 sudo mysql error_helper < db/error_helper.sql
+
+## Rakenduse käivitamine
+
+```bash
+python3 src/app.py
