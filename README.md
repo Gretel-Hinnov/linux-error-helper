@@ -11,11 +11,11 @@ vastavas lõputöös.
 
 ```bash
 sudo mysql -e "CREATE DATABASE error_helper;"
-sudo mysql error_helper < andmebaas/error_helper.sql
+sudo mysql error_helper < Andmebaas/error_helper.sql
 ```
 
 ## Rakenduse käivitamine
 
 ```bash
-python3 rakendus/interaktiivne_abiline.py
+python3 Rakendus/interaktiivne_abiline.py
 ```
